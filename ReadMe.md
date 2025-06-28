@@ -1,1 +1,1 @@
-unityExport.unitypackage - файл со всеми сценами и ассетами
+UnityPackage.unitypackage - файл со всеми сценами и ассетами
